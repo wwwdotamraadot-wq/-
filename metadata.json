@@ -1,0 +1,6 @@
+{
+  "name": "مطعم التاج السوري - حوش عيسى",
+  "description": "الموقع الرسمي ونظام الطلب الأونلاين لمطعم التاج السوري في حوش عيسى - محافظة البحيرة. شاورما، كريب، بيتزا، مشويات ووجبات سورية أصلية على مدار 24 ساعة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
